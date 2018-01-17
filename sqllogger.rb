@@ -1,7 +1,7 @@
 class Sqllogger < Formula
   desc "A command line tool to filter mysql logs"
   url "https://github.com/trondal/sqllogger/blob/master/archive/sqllogger"
-  sha256 "bb3764de3a701a748a40f829752f00dbf2ff457fa65c7d2321c77837df66803d"
+  sha256 "0bb0035ed8af1b032b21dcf0286121d095f152217989ad88d17f889eaad80c3b"
   version "1.0.0"
 
   bottle :unneeded
